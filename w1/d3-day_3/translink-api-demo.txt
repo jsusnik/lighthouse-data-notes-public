@@ -1,0 +1,5 @@
+Dnmlzo7VEguzBUIE5W37
+
+curl https://api.translink.ca/rttiapi/v1/stops/55612?apikey=Dnmlzo7VEguzBUIE5W37
+
+export TRANSLINK_API=Dnmlzo7VEguzBUIE5W37
